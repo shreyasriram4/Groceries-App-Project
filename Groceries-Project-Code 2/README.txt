@@ -1,5 +1,6 @@
 This project is a collaboration between Shreya Sriram, Sun Hao Ting, Neaton Ang Jia Jun, Charlene Chan Mun Yee, Adam Tan Etai, Zoe Yee Zong Yee. Based on given datasets, our group proposed and wireframe an application to help Malaysians select grocery plans to meet their needs, in terms of health needs, monetary needs, family needs, media habits, etc.
 
+** IMPORTANT: SOME FILES OMITTED DUE TO FILE SIZE. CODE REQUIRES THESE FILES TO WORK, PLEASE CONTACT ME FOR ACCESS TO THESE FILES. **
 
 This folder contains:
 
@@ -30,13 +31,11 @@ This folder contains:
 	to create plots for part 4 of the report
 
 
-
-
 -dailyconsumption.csv
 	output of EDA Daily Purchases and Demographics.ipynb,
 	contains panelist demographic information joined with their daily calorie consumption
 
--transcations_joined.csv
+-transcations_joined.csv (omitted due to file size)
 	output of EDA Daily Purchases and Demographics.ipynb
 	contains DACC_Hackathon_TransactionData.csv joined with additional information on calories
 
@@ -59,7 +58,7 @@ This folder contains:
 --DACC_Hackathon_Categories_Information.xlsx
 --DACC_Hackathon_Media_Habit_Survey.xlsx
 --DACC_Hackathon_Panelists_Demogs.xlsx
---DACC_Hackathon_TransactionData.csv	
+--DACC_Hackathon_TransactionData.csv	(omitted due to file size)
 
 
 Requirements:
